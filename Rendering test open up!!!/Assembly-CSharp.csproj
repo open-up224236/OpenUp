@@ -64,6 +64,8 @@
     <Compile Include="Assets\script\CharlisText.cs" />
     <Compile Include="Assets\script\ExitGame.cs" />
     <Compile Include="Assets\script\Menutoggle.cs" />
+    <Compile Include="Assets\script\PickUp.cs" />
+    <Compile Include="Assets\script\SwitchScene.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Open up rendering test/OpenUp/Rendering test open up!!!/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
